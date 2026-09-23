@@ -21,7 +21,7 @@ token first (`sk_` + a random secret); the first call auto-provisions a free tri
 ```
 
 Use the **same token** for every service - one account, one credit pool. Full service list:
-[agent-utils hub](https://codeberg.org/agent-utils/agent-utils).
+[agent-utils hub](https://github.com/agent-utils/agent-utils).
 
 ## License
 
