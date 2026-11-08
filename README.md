@@ -26,6 +26,10 @@ token first (`sk_` + a random secret); the first call auto-provisions a free tri
 Use the **same token** for both - one account, one credit pool. Full reference:
 [agent-utils hub](https://github.com/agent-utils/agent-utils).
 
+## Contact
+
+Questions, bugs or account issues: support@agent-utils.ai
+
 ## License
 
 MIT.
